@@ -1,0 +1,75 @@
+
+
+.container{
+margin-bottom: 100px;
+}
+.red-bg{
+    background-color: #fceae8 ;
+    border-radius: 8px;
+}
+.carousel-item{
+    padding: 20px 40px ;
+}
+.price{
+    color: rgb(255, 0, 200);
+}
+.buy-new-button{
+    background-image: linear-gradient(to bottom, rgb(231, 114, 114) 0%, rgb(243, 4, 4) 100% );
+    color: #fceae8;
+    border: none;
+    border-radius: 5px;
+    cursor:"pointer";
+    padding: 9px 25px;
+}
+.mi1, .mi2, .mi3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.mi1{
+    background-image: linear-gradient(to right,rgb(224, 176, 176) 0% , rgb(185, 39, 39) 100%);
+    color: rgb(255, 255, 255);
+}
+.mi2{
+    background-image: linear-gradient(to right,rgb(224, 176, 176) 0% , rgb(42, 57, 196) 100%);
+    color: rgb(255, 255, 255);
+}
+.mi3{
+    background-image: linear-gradient(to right,rgb(224, 176, 176) 0% , rgb(75, 224, 5) 100%);
+    color: rgb(255, 255, 255);
+}
+.categories img{
+    width: 100px;
+
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(175, 79, 79) ;
+}
+.card img{
+    width: 200px;
+     
+
+}
+.card-footer{
+    border-top: none;
+
+}
+.Backpack{
+    padding-top: 10%;
+}
+#subscribe{
+    height: 300px;
+    
+    
+}
+#subscribe h6{
+    color: gray;
+}
+.subfak{
+    padding-top: 10%;
+}
+footer{
+    text-align: center;
+   
+}
